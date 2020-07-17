@@ -1,5 +1,5 @@
-# 🧳 Luggage
-Luggage - Curated UX resources and tools to take away.
+# Luggage
+Curated UX resources and tools to take away.
 ## A
 * [Awwards](https://www.awwwards.com/)
 * [24 Accessibility](https://www.24a11y.com)
