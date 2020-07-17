@@ -2,9 +2,12 @@
 Luggage - Curated repository of amazing UX content to take away.
 
 ## A
+[Awwards](https://www.awwwards.com/)
 ## B
 ## C
+[Creative Blog](https://www.creativebloq.com/)
 ## D
+[Design Mondo UX Design](https://designmodo.com/design/ux-design/)
 ## E
 ## F
 ## G
@@ -15,6 +18,7 @@ Luggage - Curated repository of amazing UX content to take away.
 ## L
 ## M
 ## N
+[Nielsen Norman Group](https://www.nngroup.com/)
 ## O
 ## P
 ## Q
@@ -22,7 +26,8 @@ Luggage - Curated repository of amazing UX content to take away.
 ## S
 ## T
 ## U
-[UX MAG](https://uxmag.com/)
+[UX Magazine](https://uxmag.com/)
+[UX Movement](https://uxmovement.com/)
 ## V
 ## W
 ## X
