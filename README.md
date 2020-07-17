@@ -1,2 +1,2 @@
-# locker
-Locker - UX repository of amazing content
+# Locker
+Locker - Curated repository of amazing content.
