@@ -1,22 +1,22 @@
 # 🧳 Luggage 
 Curated UX resources and tools to take away.
-## A
+## Accessibility
 * [Awwards](https://www.awwwards.com/)
 * [24 Accessibility](https://www.24a11y.com)
-## B
-## C
+## Blogs
+## Competitive analysis
 * [Creative Blog](https://www.creativebloq.com)
 * [Contrast Ratio](https://contrast-ratio.com)
 * [Color Safe](http://colorsafe.co)
-## D
+## Design system
 * [Design Mondo - UX Design](https://designmodo.com/design/ux-design)
 * [Design Systems](https://www.designsystems.com/)
-## E
+## Empathy
 ## F
 ## G
 * [Gridzzly](http://gridzzly.com/)
 ## H
-## I
+## Inclusive design
 ## J
 ## K
 ## L
@@ -27,15 +27,15 @@ Curated UX resources and tools to take away.
 * [Nielsen Norman Group](https://www.nngroup.com/)
 ## O
 * [One Page Love](https://onepagelove.com/)
-## P
+## Prototypes
 * [Pages.ooo](https://www.pages.ooo/)
-## Q
-## R
+## Quantitative & Qualitative
+## Research
 * [Really Good UX](https://www.reallygoodux.io/)
 ## S
 * [Stark](https://www.getstark.co)
 ## T
-## U
+## Usability testing
 * [UX Magazine](https://uxmag.com/)
 * [UX Movement](https://uxmovement.com/)
 * [UX Booth](https://www.uxbooth.com/)
@@ -43,7 +43,7 @@ Curated UX resources and tools to take away.
 * [UX Planet](https://uxplanet.org/)
 * [UX Colective](https://uxdesign.cc/)
 ## V
-## W
+## Wireframes
 * [Who Can Use](https://whocanuse.com)
 * [Whimiscal](https://whimsical.com/)
 * [Whiteboard](https://Whiteboard.com/)
