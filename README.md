@@ -20,6 +20,7 @@ Luggage - Curated UX resources and tools to take away.
 ## L
 ## M
 * [Miro](https://miro.com/)
+* [Mural](https://mural.com/)
 ## N
 * [Nielsen Norman Group](https://www.nngroup.com/)
 ## O
