@@ -31,6 +31,7 @@ Luggage - Curated repository of amazing UX content to take away.
 * [UX Booth](https://www.uxbooth.com/)
 * [UX Power Tools](https://medium.com/ux-power-tools)
 * [UX Planet](https://uxplanet.org/)
+* [UX Colective](https://uxdesign.cc/)
 ## V
 ## W
 ## X
