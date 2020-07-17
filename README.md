@@ -22,6 +22,7 @@ Luggage - Curated repository of amazing UX content to take away.
 ## S
 ## T
 ## U
+[UX MAG](https://uxmag.com/)
 ## V
 ## W
 ## X
