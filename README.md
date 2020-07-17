@@ -13,6 +13,7 @@ Luggage - Curated UX resources and tools to take away.
 ## E
 ## F
 ## G
+* [Gridzzly](http://gridzzly.com/)
 ## H
 ## I
 ## J
