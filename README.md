@@ -10,6 +10,7 @@ Luggage - Curated UX resources and tools to take away.
 * [Color Safe](http://colorsafe.co)
 ## D
 * [Design Mondo - UX Design](https://designmodo.com/design/ux-design)
+* [Design Systems](https://www.designsystems.com/)
 ## E
 ## F
 ## G
@@ -25,9 +26,12 @@ Luggage - Curated UX resources and tools to take away.
 ## N
 * [Nielsen Norman Group](https://www.nngroup.com/)
 ## O
+* [One Page Love](https://onepagelove.com/)
 ## P
+* [Pages.ooo](https://www.pages.ooo/)
 ## Q
 ## R
+* [Really Good UX](https://www.reallygoodux.io/)
 ## S
 * [Stark](https://www.getstark.co)
 ## T
