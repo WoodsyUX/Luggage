@@ -40,7 +40,7 @@ Luggage - Curated UX resources and tools to take away.
 ## W
 * [Who Can Use](https://whocanuse.com)
 * [Whimiscal](https://whimsical.com/)
-* [witeboard](https://witeboard.com/)
+* [witeboard](https://Whiteboard.com/)
 ## X
 ## Y
 ## Z
