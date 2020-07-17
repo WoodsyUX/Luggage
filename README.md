@@ -16,7 +16,7 @@ Curated UX resources and tools to take away.
 ## G
 * [Gridzzly](http://gridzzly.com/)
 ## H
-## Inclusive design
+## Inspiration
 ## J
 ## K
 ## L
