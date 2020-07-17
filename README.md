@@ -7,7 +7,7 @@ Luggage - Curated repository of amazing UX content to take away.
 ## C
 [Creative Blog](https://www.creativebloq.com/)
 ## D
-[Design Mondo UX Design](https://designmodo.com/design/ux-design/)
+[Design Mondo - UX Design](https://designmodo.com/design/ux-design/)
 ## E
 ## F
 ## G
