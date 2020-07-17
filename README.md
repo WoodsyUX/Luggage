@@ -1,2 +1,2 @@
-# Locker
-Locker - Curated repository of amazing content.
+# 🧳 Luggage
+Luggage - Curated repository of amazing UX content to take away.
