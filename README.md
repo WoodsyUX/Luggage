@@ -6,6 +6,8 @@ Curated UX resources and tools to take away.
 * [Color Safe](http://colorsafe.co)
 * [Who Can Use](https://whocanuse.com)
 ## Books
+* [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
+
 ## Competitive analysis
 ## Design system
 * [Design Systems](https://www.designsystems.com/)
