@@ -11,8 +11,6 @@ Curated UX resources and tools to take away.
 * [Design Systems](https://www.designsystems.com/)
 ## Empathy Mapping
 ## Forms
-## G
-* [Gridzzly](http://gridzzly.com/)
 ## Heuristics
 ## Inspiration
 * [Awwards](https://www.awwwards.com/)
@@ -29,9 +27,8 @@ Curated UX resources and tools to take away.
 * [UX Colective](https://uxdesign.cc/)
 * [Creative Blog](https://www.creativebloq.com)
 ## Journey mapping
-## K
 ## Learnability
-## M
+## Mock-ups
 * [Miro](https://miro.com/)
 * [Mural](https://mural.com/)
 ## Note taking
@@ -41,11 +38,7 @@ Curated UX resources and tools to take away.
 * [Whiteboard](https://Whiteboard.com/)
 ## Quantitative & Qualitative
 ## Research
-## S
 ## Testing
 ## Usability
 ## Videos
 ## Wireframes
-## X
-## Y
-## Z
