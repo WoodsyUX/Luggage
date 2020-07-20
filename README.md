@@ -42,7 +42,7 @@ Curated UX resources and tools to take away.
 * [UX Power Tools](https://medium.com/ux-power-tools)
 * [UX Planet](https://uxplanet.org/)
 * [UX Colective](https://uxdesign.cc/)
-## V
+## Videos
 ## Wireframes
 * [Who Can Use](https://whocanuse.com)
 * [Whimiscal](https://whimsical.com/)
