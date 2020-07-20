@@ -10,7 +10,7 @@ Curated UX resources and tools to take away.
 ## Design system
 * [Design Systems](https://www.designsystems.com/)
 ## Empathy Mapping
-## Forms
+## Feedback
 ## Heuristics
 ## Inspiration
 * [Awwards](https://www.awwwards.com/)
