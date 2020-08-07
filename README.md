@@ -1,19 +1,14 @@
 # 🧳 Luggage 
-Curated UX resources and tools to take away.
+Personal curated UX resources and tools to take away.
 ## Accessibility
 * [24 Accessibility](https://www.24a11y.com)
 * [Contrast Ratio](https://contrast-ratio.com)
 * [Color Safe](http://colorsafe.co)
 * [Who Can Use](https://whocanuse.com)
-## Books
+## UX Books
 * [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
-
-## Competitive analysis
 ## Design system
 * [Design Systems](https://www.designsystems.com/)
-## Empathy Mapping
-## Feedback
-## Heuristics
 ## Inspiration
 * [Awwards](https://www.awwwards.com/)
 * [Design Mondo - UX Design](https://designmodo.com/design/ux-design)
@@ -28,19 +23,12 @@ Curated UX resources and tools to take away.
 * [UX Planet](https://uxplanet.org/)
 * [UX Colective](https://uxdesign.cc/)
 * [Creative Blog](https://www.creativebloq.com)
-## Journey mapping
-## Learnability
-## Mock-ups
-* [Miro](https://miro.com/)
-* [Mural](https://mural.com/)
 ## Note taking
 ## Observe
-## Prototypes
+## Prototyping tools
 * [Whimiscal](https://whimsical.com/)
 * [Whiteboard](https://Whiteboard.com/)
-## Quantitative & Qualitative
 ## Research
-## Testing
-## Usability
-## Videos
-## Wireframes
+## Tools
+* [Miro](https://miro.com/)
+* [Mural](https://mural.com/)
