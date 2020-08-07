@@ -8,9 +8,12 @@ Personal curated UX resources and tools to take away.
 ## UI Books
 * [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
 ## UX Books
+## Courses
 * [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
 ## Design system
+## Card Sorting
 * [Design Systems](https://www.designsystems.com/)
+## Surveys
 ## Inspiration
 * [Awwards](https://www.awwwards.com/)
 * [Design Mondo - UX Design](https://designmodo.com/design/ux-design)
@@ -32,8 +35,12 @@ Personal curated UX resources and tools to take away.
 * [Whimiscal](https://whimsical.com/)
 * [Whiteboard](https://Whiteboard.com/)
 ## Research
-## Tools
+## Collboration Tools
 * [Miro](https://miro.com/)
 * [Mural](https://mural.com/)
+## Testing tool
 ## People
 ## Podcast
+## Newsletter
+## IA Testing
+## Recruiting
