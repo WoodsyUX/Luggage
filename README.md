@@ -5,6 +5,8 @@ Personal curated UX resources and tools to take away.
 * [Contrast Ratio](https://contrast-ratio.com)
 * [Color Safe](http://colorsafe.co)
 * [Who Can Use](https://whocanuse.com)
+## UI Books
+* [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
 ## UX Books
 * [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
 ## Design system
@@ -23,8 +25,8 @@ Personal curated UX resources and tools to take away.
 * [UX Planet](https://uxplanet.org/)
 * [UX Colective](https://uxdesign.cc/)
 * [Creative Blog](https://www.creativebloq.com)
-## Note taking
-## Observe
+## Image Optimization
+## Website Optimization
 ## Prototyping tools
 * [Whimiscal](https://whimsical.com/)
 * [Whiteboard](https://Whiteboard.com/)
@@ -32,3 +34,4 @@ Personal curated UX resources and tools to take away.
 ## Tools
 * [Miro](https://miro.com/)
 * [Mural](https://mural.com/)
+## Podcast
