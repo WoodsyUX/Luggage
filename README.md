@@ -26,6 +26,7 @@ Personal curated UX resources and tools to take away.
 * [UX Colective](https://uxdesign.cc/)
 * [Creative Blog](https://www.creativebloq.com)
 ## Image Optimization
+## Job Board
 ## Website Optimization
 ## Prototyping tools
 * [Whimiscal](https://whimsical.com/)
@@ -34,4 +35,5 @@ Personal curated UX resources and tools to take away.
 ## Tools
 * [Miro](https://miro.com/)
 * [Mural](https://mural.com/)
+## People
 ## Podcast
