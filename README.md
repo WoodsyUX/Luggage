@@ -42,11 +42,11 @@ Curated UX resources and tools to take away with you.
 * [Miro](https://miro.com/)
 * [Mural](https://mural.com/)
 ## Testing tools
-* [Treejack](https://www.optimalworkshop.com/treejack/)- IA testing
-* [Hotjar](https://www.hotjar.com/)- Multiple testing tools
-* [Crazy Egg](https://www.crazyegg.com/)- Multiple testing tools
-* [Optimizely](https://www.optimizely.com/)- A/B testing platform
-* [Five Second Test](https://fivesecondtest.com/)- First Impression Testing
+* [Treejack](https://www.optimalworkshop.com/treejack/) - IA testing
+* [Hotjar](https://www.hotjar.com/) - Multiple testing tools
+* [Crazy Egg](https://www.crazyegg.com/) - Multiple testing tools
+* [Optimizely](https://www.optimizely.com/) - A/B testing platform
+* [Five Second Test](https://fivesecondtest.com/) - First Impression Testing
 ## Podcast
 * [User Defenders Podcast](https://userdefenders.com/)
 * [ShopTalk Show](https://shoptalkshow.com/)
@@ -57,3 +57,4 @@ Curated UX resources and tools to take away with you.
 * [UX Collective Newsletter](https://newsletter.uxdesign.cc/)
 ## Recruiting
 * [Testing Time](https://www.testingtime.com/en/)
+## Research
