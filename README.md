@@ -5,8 +5,6 @@ Curated UX resources and tools to take away with you.
 * [Contrast Ratio](https://contrast-ratio.com)
 * [Color Safe](http://colorsafe.co)
 * [Who Can Use](https://whocanuse.com)
-## UI Books
-* [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
 ## UX Books
 * [Don't Make Me Think - By Steve Krug](https://amzn.to/2OH2rre)
 ## Courses
@@ -43,8 +41,12 @@ Curated UX resources and tools to take away with you.
 ## Collboration Tools
 * [Miro](https://miro.com/)
 * [Mural](https://mural.com/)
-## Testing tool
+## Testing tools
 * [Treejack - IA testing](https://www.optimalworkshop.com/treejack/)
+* [Hotjar - Multiple testing tools](https://www.hotjar.com/)
+* [Crazy Egg - Multiple testing tools](https://www.crazyegg.com/)
+* [Optimizely - A/B testing platform](https://www.optimizely.com/)
+* [Five Second Test - First Impression Testing](https://fivesecondtest.com/)
 ## Podcast
 * [User Defenders Podcast](https://userdefenders.com/)
 * [ShopTalk Show](https://shoptalkshow.com/)
